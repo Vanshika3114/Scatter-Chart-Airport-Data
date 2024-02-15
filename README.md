@@ -1,8 +1,8 @@
-# Scatter Chart Airport Data
+# Scatter Plot Airport Data
 
 This repository contains a scatter chart analysis focusing on temperature, ice cream sales, soup sales, delays (minutes), and technical incidents at an airport. Utilizing the scatter chart and correlation matrix, this analysis aims to explore potential relationships between these variables and identify trends or patterns.
 
-## Scatter Chart Overview
+## Scatter Plot Overview
 
 A scatter chart is a graphical tool used to display the relationships between two or more variables. Each data point in the chart represents the value of one variable against the value of another variable. Scatter charts can be particularly useful for identifying correlations or patterns within a dataset.
 
