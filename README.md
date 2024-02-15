@@ -5,7 +5,7 @@ This repository contains a scatter chart analysis focusing on temperature, ice c
 ## Scatter Plot Overview
 
 A scatter chart is a graphical tool used to display the relationships between two or more variables. Each data point in the chart represents the value of one variable against the value of another variable. Scatter charts can be particularly useful for identifying correlations or patterns within a dataset.
-Uses-
+# Uses-
 Correlation: A scatter plot can also be used to calculate the correlation coefficient between the variables. This measures the strength and direction of the relationship.
 
 ## Contents
